@@ -40,3 +40,4 @@ if st.button("Translate"):
 
     # Remove audio file
     os.remove(audio_file)
+st.subheader("Made by Sayantan,Shrikriti and Samyukta")
